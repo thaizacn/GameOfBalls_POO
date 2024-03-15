@@ -1,4 +1,4 @@
-# Ball Game 🎮
+# Game of Balls 🎮
 O objetivo deste projeto é desenvolver o "Jogo das Bolas" ou "Jogo de Adivinhação" aonde em um jogo “contra” o computador, o usuário deve adivinhar o “alvo” escolhido aleatoriamente pelo sistema (computador) em sucessivas tentativas. Em caso de acerto o jogo se encerra com a vitória do usuário, e em caso de erro o jogo continua e o computador define o próximo alvo com novo sorteio de uma bola e agora o novo alvo será a soma do alvo anterior com o valor da nova bola sorteada, em seguida o usuário deve dar seu novo palpite, e o processo se repete até que:
 - O usuário acerte o alvo (vitória do usuário)
 - O alvo ultrapasse o valor 100 sem que o usuário tenha acertado (vitória do computador)
