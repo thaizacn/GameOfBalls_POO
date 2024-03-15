@@ -8,11 +8,12 @@ O objetivo deste projeto é desenvolver o "Jogo das Bolas" ou "Jogo de Adivinha�
 1. Clone o repositório: `git clone https://github.com/seu-usuario/seu-repositorio.git`
 2. Execute a classe Main:
 
-![image](https://github.com/thaizacn/BallGame_POO/assets/77704621/d33246c2-35a8-4f34-9d59-508aae933e0b)
+![image](https://github.com/thaizacn/GameOfBalls_POO/assets/77704621/d46f91bb-a081-490e-a825-fff9891afacd)
+
 
 3. Interaja a partir do console:
 
-![image](https://github.com/thaizacn/BallGame_POO/assets/77704621/5c410f47-ee23-4b7a-a233-746f66f2abb0)
+![image](https://github.com/thaizacn/GameOfBalls_POO/assets/77704621/e5d4cfa1-1164-4ffe-baae-9dba33d83bd6)
 
 
 ## 🛠️ Tecnologias Utilizadas
